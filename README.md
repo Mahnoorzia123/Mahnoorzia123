@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Mahnoorzia123/Mahnoorzia123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mahnoor Zia
 
-Here are some ideas to get you started:
+I'm a beginner Python programmer who loves creating small, useful projects.
+I enjoy learning new concepts and improving my coding skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Technologies I Work With
+- Python
+- Pandas, NumPy
+- Git & GitHub
+- Basic Data Analysis
+
+###  My Goals
+- Upload more projects
+- Build a bigger Python project
+- Improve my LinkedIn presence
+- Learn new libraries
+
+Thanks for visiting my profile! 
